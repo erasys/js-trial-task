@@ -1,0 +1,11 @@
+{
+  "name": "trial-task",
+  "version": "1.0.0",
+  "description": "Erasys Javascript Trial Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erasys GmbH",
+  "license": "ISC"
+}
