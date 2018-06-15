@@ -1,7 +1,7 @@
 {
   "name": "trial-task",
   "version": "1.0.0",
-  "description": "Erasys Javascript Trial Task",
+  "description": "Erasys JavaScript Trial Task",
   "main": "index.js",
   "scripts": {
     "start": "node ./index | bunyan"
