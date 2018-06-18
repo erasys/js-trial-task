@@ -50,7 +50,7 @@ Returns a list of user profiles with some basic information.
 }
 ```
 
-### `/api/profiles?ids=[]`
+### `/api/profiles?ids=_id1_&ids=_id2_&ids=...`
 Returns an array of detailed user data matching the given ids.
 
 #### Example output
