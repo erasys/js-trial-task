@@ -58,14 +58,9 @@ Returns an array of detailed user data matching the given ids.
 [
   {
     "id": (string),
-    "name": (string),
     "location": {
       "name": (string),
       "distance": (number)
-    },
-    "picture": {
-      "comment": (string),
-      "url": (string)
     },
     "headline": (string),
     "personal": {
@@ -76,7 +71,7 @@ Returns an array of detailed user data matching the given ids.
       "anal_position": (string),
       ...
     },
-    
+
     {
       "id": (string),
       ...
