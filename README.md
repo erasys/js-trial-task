@@ -1,5 +1,5 @@
 # Erasys JavaScript Trial Task
-Users are very important on PLANETROMEO. That's why we want you to implement an app that shows a list of users. We have included a simple server with two API endpoints that give you the required data.
+Users are very important on ROMEO. That's why we want you to implement an app that shows a list of users. We have included a simple server with two API endpoints that give you the required data.
 
 ## Requirements
 - Create a JavaScript app (you can use your favorite `npm` packages and frameworks) that shows the results in a layout similar to the following screenshot:
