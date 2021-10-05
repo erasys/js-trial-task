@@ -13,8 +13,6 @@ Users are very important on ROMEO. That's why we want you to implement an app th
   - Headline
   - Relative last login time (e.g. 6 minutes ago)
 
-  *Hint: You can start by displaying the basic information and extend  it with the detailed information later.*
-
   *The screenshot above is just an illustration of what we have in mind. Feel free to use it as a starting point, or implement your own design.*
 
 - The app should work on all screen sizes
