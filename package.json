@@ -1,6 +1,6 @@
 {
   "name": "trial-task",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Erasys JavaScript Trial Task",
   "main": "index.js",
   "scripts": {
