@@ -10,13 +10,13 @@
   "author": "erasys GmbH",
   "license": "ISC",
   "engines": {
-    "node": ">= 6"
+    "node": ">= 22"
   },
   "dependencies": {
-    "bunyan": "^1.8.12",
-    "express": "^4.16.3",
-    "hashids": "^2.2.8",
-    "lodash": "^4.17.10",
-    "moment": "^2.22.2"
+    "bunyan": "^1.8.15",
+    "express": "^4.21.2",
+    "hashids": "^2.3.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1"
   }
 }
