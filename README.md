@@ -1,11 +1,11 @@
-# Erasys JavaScript Trial Task
+# Erasys React Native Trial Task
 Users are very important on ROMEO. That's why we want you to implement an app that shows a list of users. We have included a simple server with two API endpoints that give you the required data.
 
 ## Requirements
-- Create a JavaScript app (you can use your favorite `npm` packages and frameworks) that shows the results in a layout similar to the following screenshot:
+- Create a React Native application that shows the results in a layout similar to the following screenshot:
 ![](./data/mockup.jpg)
 
-- Make sure that a single item shows the following data:
+- Make sure that a single item in the list shows **all** of the following data (you might need to combine some data sources for this):
   - Username
   - Age
   - Image
@@ -14,9 +14,13 @@ Users are very important on ROMEO. That's why we want you to implement an app th
   - Relative last login time (e.g. 6 minutes ago)
 
   *The screenshot above is just an illustration of what we have in mind. Feel free to use it as a starting point, or implement your own design.*
-
-- The app should work on all screen sizes
+  
+- You can use any additional packages or frameworks you feel are beneficial to the project
+- The new code must be written in Typescript
+- The app should be able to run on all platforms (Android, iOS, Web)
+- The app can be added to this existing codebase (via git clone) or written externally, but it **must** work alongside the server in this repo.
 - Include your `git` history when you send us your code
+- Update this README.md to include any additional information you think is relevant to your submission, including setup instructions.
 
 ## Server
 1. Clone this repository
