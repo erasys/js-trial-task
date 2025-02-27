@@ -3,7 +3,7 @@ Users are very important on ROMEO. That's why we want you to implement an app th
 
 ## Requirements
 - Create a React Native application that shows the results in a layout similar to the following screenshot:
-![](./data/mockup.jpg)
+![](./data/mockup.png)
 
 - Make sure that a single item in the list shows **all** of the following data (you might need to combine some data sources for this):
   - Username
@@ -80,8 +80,3 @@ Returns an array of detailed user data matching the given ids.
     }
 ]
 ```
-
-Please note: Whilst the project does not contain any explicit content, it does use images
-that might draw unwanted attention in some countries. If you are worried about running this
-project, you can use `npm run safe-start` to replace socially contentious content with something
-less so.
