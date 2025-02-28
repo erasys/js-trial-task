@@ -17,10 +17,10 @@ Users are very important on ROMEO. That's why we want you to implement an app th
   
 - You can use any additional packages or frameworks you feel are beneficial to the project
 - The new code must be written in Typescript
-- The app should be able to run on all platforms (Android, iOS, Web)
+- The app should ideally be able to run on all platforms (Android, iOS, Web), if it's not possible, document which platforms are working so we know which to test.
 - The app can be added to this existing codebase (via git clone) or written externally, but it **must** work alongside the server in this repo.
 - Include your `git` history when you send us your code
-- Update this README.md to include any additional information you think is relevant to your submission, including setup instructions.
+- Add a README.md or similar to include any additional information you think is relevant to your submission, including setup instructions, decisions made, issues you faced etc so that we can discuss these later on if necessary
 
 ## Server
 1. Clone this repository
